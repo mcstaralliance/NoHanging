@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoHanging">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoHanging</output-path>
+    <root id="archive" name="NoHanging.jar">
+      <element id="module-output" name="NoHanging" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
